@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  width: 360px;
+  min-height: 400px;
 }
 
 code {
@@ -36,7 +38,7 @@ code {
   margin-left: auto;
   padding-right: 15px;
   padding-left: 15px;
-  min-height: 100vh;
+  margin-bottom: 15px;
 }
 
 .notes-list {
